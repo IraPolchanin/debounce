@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/debounce/static/css/main.d2769faa.css",
+    "main.js": "/debounce/static/js/main.771ed6c5.js",
+    "static/media/fa-solid-900.ttf": "/debounce/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
+    "static/media/fa-brands-400.ttf": "/debounce/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
+    "static/media/fa-solid-900.woff2": "/debounce/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
+    "static/media/fa-brands-400.woff2": "/debounce/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
+    "static/media/fa-regular-400.ttf": "/debounce/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
+    "static/media/fa-regular-400.woff2": "/debounce/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
+    "static/media/fa-v4compatibility.ttf": "/debounce/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
+    "static/media/fa-v4compatibility.woff2": "/debounce/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
+    "index.html": "/debounce/index.html",
+    "main.d2769faa.css.map": "/debounce/static/css/main.d2769faa.css.map",
+    "main.771ed6c5.js.map": "/debounce/static/js/main.771ed6c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2769faa.css",
+    "static/js/main.771ed6c5.js"
+  ]
+}
